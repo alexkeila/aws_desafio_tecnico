@@ -1,4 +1,4 @@
-![image](https://inboxcommerce.azureedge.net/inbox-commerce-logo/sovrn/Amazon.com)
+![image](https://repository-images.githubusercontent.com/356979740/b7a6f6f2-5693-4166-8406-94bdd0840ccb)
 
 # AWS - Desafio Técnico para Cientista de Dados
 
